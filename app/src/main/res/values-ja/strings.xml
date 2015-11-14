@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="send">送る</string>
+    <string name="preferences">設定</string>
+    <string name="new_game">新規ゲーム</string>
+    <string name="statistics">統計</string>
+    <string name="change_court">左右入替</string>
+    <string name="undo">元に戻す</string>
+    <string name="pref">試合の設定</string>
+    <string name="pref2">設定</string>
+    <string name="start_game">試合を開始する</string>
+    <string name="app_name">Love40</string>
+    
+    <string name="raceto_set_key">raceto_set_key</string>
+    <string name="raceto_set_title">セット数</string>
+    <string name="raceto_game_key">raceto_game_key</string>
+    <string name="raceto_game_title">ゲーム数</string>
+    <string name="game_type_key">game_type_key</string>
+    <string name="game_type_title">ゲームの種類(シングルス／ダブルス)</string>
+
+    <string name="sound_key">sound_key</string>
+    <string name="sound_title">サウンド</string>
+
+    <string name="stat_name">プレイヤー名</string>
+    <string name="stat_sets">セット数</string>
+    <string name="stat_total_games">取得ゲーム数</string>
+    <string name="stat_total_points">取得ポイント数</string>
+    <string name="stat_service_game_keep">サービスゲームキープ率</string>
+    <string name="stat_service_point_keep">サービスポイントキープ率</string>
+
+    <string name="change_name_title">プレイヤーの名前を変更</string>
+    <string name="new_game_title">新しい試合</string>
+    <string name="new_game_content">現在のスコアは消去されます。新しい試合を開始してもよろしいですか？</string>
+    <string name="rate_title">このアプリを評価する</string>
+    <string name="rate_content">Android Marketのアプリ詳細を開きます。このアプリの評価と感想、ご要望等をお待ちしています。</string>
+</resources>

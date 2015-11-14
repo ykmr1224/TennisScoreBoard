@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="raceto_set_label">
+	<item>1セット先取</item>
+	<item>2セット先取</item>
+	<item>3セット先取</item>
+</string-array>
+<string-array name="raceto_set_val">
+	<item>1</item>
+	<item>2</item>
+	<item>3</item>
+</string-array>
+<string-array name="raceto_game_label">
+	<item>2ゲーム先取</item>
+	<item>3ゲーム先取</item>
+	<item>4ゲーム先取</item>
+	<item>5ゲーム先取</item>
+	<item>6ゲーム先取</item>
+	<item>7ゲーム先取</item>
+	<item>8ゲーム先取</item>
+</string-array>
+<string-array name="raceto_game_val">
+	<item>2</item>
+	<item>3</item>
+	<item>4</item>
+	<item>5</item>
+	<item>6</item>
+	<item>7</item>
+	<item>8</item>
+</string-array>
+<string-array name="game_type_label">
+	<item>シングルス</item>
+	<item>ダブルス</item>
+</string-array>
+<string-array name="game_type_val">
+	<item>S</item>
+	<item>D</item>
+</string-array>
+</resources>

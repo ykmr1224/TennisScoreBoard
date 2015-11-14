@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="raceto_set_label">
+	<item>1 Set</item>
+	<item>2 Sets</item>
+	<item>3 Sets</item>
+</string-array>
+<string-array name="raceto_set_val">
+	<item>1</item>
+	<item>2</item>
+	<item>3</item>
+</string-array>
+<string-array name="raceto_game_label">
+	<item>2 Games</item>
+	<item>3 Games</item>
+	<item>4 Games</item>
+	<item>5 Games</item>
+	<item>6 Games</item>
+	<item>7 Games</item>
+	<item>8 Games</item>
+</string-array>
+<string-array name="raceto_game_val">
+	<item>2</item>
+	<item>3</item>
+	<item>4</item>
+	<item>5</item>
+	<item>6</item>
+	<item>7</item>
+	<item>8</item>
+</string-array>
+<string-array name="game_type_label">
+	<item>Singles</item>
+	<item>Doubles</item>
+</string-array>
+<string-array name="game_type_val">
+	<item>S</item>
+	<item>D</item>
+</string-array>
+</resources>

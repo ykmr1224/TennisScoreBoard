@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory android:title="@string/pref">
+		<ListPreference android:positiveButtonText="OK"
+			android:negativeButtonText="Cancel" android:defaultValue="S"
+			android:title="@string/game_type_title" android:entries="@array/game_type_label"
+			android:dialogTitle="@string/game_type_title" android:key="@string/game_type_key"
+			android:entryValues="@array/game_type_val"></ListPreference>
+		<ListPreference android:positiveButtonText="OK"
+			android:negativeButtonText="Cancel" android:defaultValue="1"
+			android:title="@string/raceto_set_title" android:entries="@array/raceto_set_label"
+			android:dialogTitle="@string/raceto_set_title" android:key="@string/raceto_set_key"
+			android:entryValues="@array/raceto_set_val" android:summary="sets"></ListPreference>
+		<ListPreference android:positiveButtonText="OK"
+			android:negativeButtonText="Cancel" android:defaultValue="6"
+			android:title="@string/raceto_game_title" android:entries="@array/raceto_game_label"
+			android:dialogTitle="@string/raceto_game_title" android:key="@string/raceto_game_key"
+			android:entryValues="@array/raceto_game_val"></ListPreference>
+	</PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:icon="@android:drawable/ic_menu_revert" android:id="@+id/Undo" android:title="@string/undo"></item>
+	<item android:icon="@drawable/ic_menu_refresh" android:id="@+id/ChangeCourt" android:title="@string/change_court"></item>
+	<item android:icon="@android:drawable/ic_menu_info_details" android:id="@+id/Stat" android:title="@string/statistics"></item>
+	<item android:icon="@android:drawable/ic_menu_add" android:id="@+id/NewGame" android:title="@string/new_game"></item>
+	<item android:icon="@android:drawable/ic_menu_share" android:title="@string/send" android:id="@+id/Send"></item>
+	<item android:icon="@android:drawable/ic_menu_preferences" android:id="@+id/Preferences" android:title="@string/preferences"></item>
+</menu>

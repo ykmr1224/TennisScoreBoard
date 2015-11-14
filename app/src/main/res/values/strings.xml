@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="send">Send</string>
+    <string name="preferences">Preferences</string>
+    <string name="new_game">New Game</string>
+    <string name="statistics">Statistics</string>
+    <string name="change_court">Change Court</string>
+    <string name="undo">Undo</string>
+    <string name="pref">Match Settings</string>
+    <string name="pref2">Settings</string>
+    <string name="start_game">Start Game</string>
+    <string name="app_name">Love40</string>
+    
+    <string name="raceto_set_key">raceto_set_key</string>
+    <string name="raceto_set_title">Race to Sets</string>
+    <string name="raceto_game_key">raceto_game_key</string>
+    <string name="raceto_game_title">Race to Games</string>
+    <string name="game_type_key">game_type_key</string>
+    <string name="game_type_title">Game Type(Singles or Doubles)</string>
+
+    <string name="sound_key">sound_key</string>
+    <string name="sound_title">Sound</string>
+
+    <string name="stat_name">Player Name</string>
+    <string name="stat_sets">Sets</string>
+    <string name="stat_total_games">Total Games</string>
+    <string name="stat_total_points">Total Points</string>
+    <string name="stat_service_game_keep">Service Game Keep</string>
+    <string name="stat_service_point_keep">Service Point Keep</string>
+    
+    <string name="change_name_title">Change Player\'s Name</string>
+    <string name="new_game_title">Start New Game</string>
+    <string name="new_game_content">Current data will be cleard. Do you really want to start new game?</string>
+    <string name="rate_title">Rating at Android Market</string>
+    <string name="rate_content">Opening detail page of this app in Android Market. Please rate this App and let us know your impression or request.</string>
+</resources>

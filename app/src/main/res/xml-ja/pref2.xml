@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory android:title="@string/pref2">
+		<CheckBoxPreference android:title="@string/sound_title" android:summary="sound"
+			android:key="@string/sound_key" android:summaryOn="サウンド有効" android:summaryOff="サウンド無効"></CheckBoxPreference>
+</PreferenceCategory>
+</PreferenceScreen>
